@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class Program
+public class Dictionary
 {
-    static void Main(string[] args)
+    public static int NumberOfKeys(Dictionary<string, string> myDict)
     {
-        Dictionary<string, string> myDict = new Dictionary<string, string>();
+        int count = 0;
 
-        myDict.Add("language", "C");
-        myDict.Add("track", "low level");
-        myDict.Add("school", "Holberton");
+        // Loop through all keys
+        foreach (string key in myDict.Keys)
+        {
+            count++;
+        }
 
-        Console.WriteLine("Number of keys: {0}", Dictionary.NumberOfKeys(myDict));
+        return count;
     }
 }
