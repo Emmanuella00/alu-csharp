@@ -1,0 +1,14 @@
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\bin\Debug\net7.0\5-enemy.exe
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\bin\Debug\net7.0\5-enemy.deps.json
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\bin\Debug\net7.0\5-enemy.runtimeconfig.json
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\bin\Debug\net7.0\5-enemy.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\bin\Debug\net7.0\5-enemy.pdb
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\5-enemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\5-enemy.AssemblyInfoInputs.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\5-enemy.AssemblyInfo.cs
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\5-enemy.csproj.CoreCompileInputs.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\5-enemy.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\refint\5-enemy.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\5-enemy.pdb
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\5-enemy.genruntimeconfig.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\ref\5-enemy.dll
