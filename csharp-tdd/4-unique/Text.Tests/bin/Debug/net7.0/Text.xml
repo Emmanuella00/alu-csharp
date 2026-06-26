@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>String helpers.</summary>
+        </member>
+        <member name="M:Text.Str.UniqueChar(System.String)">
+            <summary>Returns index of first non-repeating character.</summary>
+            <param name="s">The string to check.</param>
+            <returns>Index of first unique character or -1 if none.</returns>
+        </member>
+    </members>
+</doc>

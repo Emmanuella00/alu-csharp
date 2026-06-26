@@ -1,0 +1,11 @@
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.xml
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.deps.json
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.pdb
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.csproj.AssemblyReference.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.AssemblyInfoInputs.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.AssemblyInfo.cs
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.csproj.CoreCompileInputs.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.pdb

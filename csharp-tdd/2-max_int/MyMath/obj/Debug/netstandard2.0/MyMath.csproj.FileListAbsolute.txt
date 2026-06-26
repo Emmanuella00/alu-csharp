@@ -1,0 +1,11 @@
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\netstandard2.0\MyMath.xml
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\netstandard2.0\MyMath.deps.json
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\netstandard2.0\MyMath.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\netstandard2.0\MyMath.pdb
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.csproj.AssemblyReference.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfo.cs
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.pdb
