@@ -1,0 +1,14 @@
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.exe
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.deps.json
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.runtimeconfig.json
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.pdb
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.AssemblyInfoInputs.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.AssemblyInfo.cs
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.csproj.CoreCompileInputs.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\refint\9-shape.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.pdb
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.genruntimeconfig.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\ref\9-shape.dll

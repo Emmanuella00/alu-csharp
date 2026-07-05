@@ -1,0 +1,14 @@
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.exe
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.deps.json
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.runtimeconfig.json
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.pdb
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.AssemblyInfoInputs.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.AssemblyInfo.cs
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.csproj.CoreCompileInputs.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\refint\7-shape.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.pdb
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.genruntimeconfig.cache
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\ref\7-shape.dll
