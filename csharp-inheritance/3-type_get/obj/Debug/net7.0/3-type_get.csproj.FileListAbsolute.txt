@@ -12,3 +12,5 @@ C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\3-type_get\obj\D
 C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.pdb
 C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.genruntimeconfig.cache
 C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\ref\3-type_get.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.xml
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.xml

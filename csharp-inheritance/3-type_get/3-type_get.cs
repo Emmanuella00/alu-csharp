@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Reflection;
 
-/// <summary>Object reflection helpers.</summary>
+/// <summary>
+/// Provides helper methods for inspecting objects using reflection.
+/// </summary>
 public class Obj
 {
-    /// <summary>Prints the properties and methods of an object.</summary>
+    /// <summary>
+    /// Prints the names of all public properties and methods of an object.
+    /// </summary>
     /// <param name="myObj">The object to inspect.</param>
     public static void Print(object myObj)
     {
