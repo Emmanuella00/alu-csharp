@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-vector_addition</name>
+    </assembly>
+    <members>
+        <member name="T:VectorMath">
+            <summary>Provides vector math operations.</summary>
+        </member>
+        <member name="M:VectorMath.Add(System.Double[],System.Double[])">
+            <summary>Adds two vectors and returns the resulting vector.</summary>
+            <param name="vector1">The first vector (2D or 3D).</param>
+            <param name="vector2">The second vector (2D or 3D).</param>
+            <returns>
+            The resulting vector, or a vector containing -1 if either vector
+            is not 2D or 3D, or if the vectors are not of the same size.
+            </returns>
+        </member>
+    </members>
+</doc>
