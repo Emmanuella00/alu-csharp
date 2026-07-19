@@ -12,3 +12,5 @@ C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-linear_algebra\3-magnitude\o
 C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.pdb
 C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.genruntimeconfig.cache
 C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\ref\3-magnitude.dll
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-linear_algebra\3-magnitude\bin\Debug\net7.0\3-magnitude.xml
+C:\Users\emmai\OneDrive\Documents\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.xml
